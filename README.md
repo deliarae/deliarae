@@ -1,6 +1,10 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋</h1>
 
-My name is Delia.
+<h3 align="center">My name is Delia [she/her].</h3>
+
+<div align="center"><img width="350px" src="https://media.licdn.com/dms/image/D4E03AQHI-aZChZFNHg/profile-displayphoto-shrink_800_800/0/1691655752410?e=1703116800&v=beta&t=5Td2V5wU6N6DrnUIqLfY-Laa3YBTAujCAdHsTIZs6wQ"></img></div>
+<br>
+<h3>Under construction...</h3>
 
 <!--
 **deliarae/deliarae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
